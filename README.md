@@ -31,7 +31,7 @@ Open the project in VS Code or another editor and then use the terminal to run t
 
 ## Deployment
 
-[Heroku]()
+[Heroku](https://employee-directory-wessex.herokuapp.com/)
 
 ## Functionality
 
